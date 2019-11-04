@@ -1,0 +1,13 @@
+Connected to simulation.
+Connected to simulation.
+CUDA detected. Running with GPU acceleration.
+Pre-trained model snapshot loaded from: /home/mas/Desktop/Visual_pushing_Grasping/visual-pushing-grasping/downloads/vpg-original-sim-pretrained-10-obj.pth
+Creating data logging session: /home/mas/Desktop/Visual_pushing_Grasping/visual-pushing-grasping/logs/2019-11-04.05:16:45
+
+
+Testing iteration: 0
+Simulation unstable. Restarting environment.
+
+coll
+2.1093791349492927e-06
+Failed to add new objects to simulation. Please restart.
